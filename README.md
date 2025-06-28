@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 大家好，我是 BinaryResearcher
 
-<!--
-**BinaryResearcher/BinaryResearcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 专注于农业知识图谱、多模态大模型 、图神经网络 
+📬 欢迎交流合作！  
 
-Here are some ideas to get you started:
+## 技术栈
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📈 GitHub Stats
+![BinaryResearcher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BinaryResearcher&show_icons=true&theme=default)
